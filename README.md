@@ -1,5 +1,5 @@
 # LADEL.ai
-# Log Anomaly Detection with AI-Powered Explanations
+# Log Anomaly Detection and Explanation Layer
 This repository contains a Python notebook for an end-to-end log anomaly detection pipeline. The system processes raw log files, identifies unusual or anomalous log entries using machine learning, and leverages a Large Language Model (LLM) to provide human-readable explanations for why each anomaly is considered unusual.
 This project is designed to run in a Google Colab environment, making it easy to get started with no local setup required.
 🚀 Key Features
